@@ -4,6 +4,7 @@ public class Book {
     private int noOfPages;
     private boolean fiction;
 
+    
     public getAuthor(){
         return this.author;
     }
